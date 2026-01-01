@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "account_id": "000000001",
+      "account_type": "CHECKING",
+      "bank_id": "000000001",
+      "dtavail": "2024-04-29T07:00:00+00:00",
+      "dtposted": "2024-04-29T07:00:00+00:00",
+      "fitid": "00000001*-0000*42**Withdrawal",
+      "memo": "Withdrawal",
+      "name": "Withdrawal",
+      "trnamt": -23.17,
+      "trntype": "DEBIT"
+    },
+    {
+      "account_id": "000000001",
+      "account_type": "CHECKING",
+      "bank_id": "000000001",
+      "dtavail": "2024-04-29T07:00:00+00:00",
+      "dtposted": "2024-04-29T07:00:00+00:00",
+      "fitid": "00000001*-10000*0**ACH Debit",
+      "memo": "ACH Debit",
+      "name": "ACH Debit",
+      "trnamt": -100.0,
+      "trntype": "CASH"
+    },
+    {
+      "account_id": "000000001",
+      "account_type": "CHECKING",
+      "bank_id": "000000001",
+      "dtavail": "2024-04-29T07:00:00+00:00",
+      "dtposted": "2024-04-29T07:00:00+00:00",
+      "fitid": "00000001*-00001*0**ACH Debit ACH PAY",
+      "memo": "ACH Debit ACH PAY ACH00000001",
+      "name": "ACH Debit ACH PAY",
+      "trnamt": -436.67,
+      "trntype": "CASH"
+    }
+  ]
+}
